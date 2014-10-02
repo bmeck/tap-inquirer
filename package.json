@@ -1,0 +1,29 @@
+{
+  "name": "tap-inquirer",
+  "version": "1.0.0",
+  "description": "keep showing inquirer checklist until tap tests finish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmeck/tap-inquirer.git"
+  },
+  "author": "bradleymeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmeck/tap-inquirer/issues"
+  },
+  "homepage": "https://github.com/bmeck/tap-inquirer",
+  "keywords": [
+    "tap",
+    "prompt"
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "inquirer": "^0.8.0",
+    "tap": "^0.4.13",
+    "tape": "^3.0.0"
+  }
+}
